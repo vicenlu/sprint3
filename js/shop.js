@@ -65,8 +65,7 @@ var total = 0;
 
 // Exercise 1
 function buy(id) {
-    // 1. Loop for to the array products to get the item to add to cart
-    // 2. Add found product to the cartList array
+    // ....
 }
 
 // Exercise 2
@@ -81,7 +80,7 @@ function calculateTotal() {
 
 // Exercise 4
 function generateCart() {
-    // Using the "cartlist" array that contains all the items in the shopping cart, 
+    // Using the "cartlist" array that contains all the items in the shopping cart,
     // generate the "cart" array that does not contain repeated items, instead each item of this array "cart" shows the quantity of product.
 }
 
@@ -95,7 +94,7 @@ function applyPromotionsCart() {
 
 // Exercise 7
 function addToCart(id) {
-    // Refactor previous code in order to simplify it 
+    // Refactor previous code in order to simplify it
     // 1. Loop for to the array products to get the item to add to cart
     // 2. Add found product to the cart array or update its quantity in case it has been added previously.
 }
